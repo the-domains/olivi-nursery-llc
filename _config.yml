@@ -1,0 +1,28 @@
+name: OLIVI NURSERY LLC
+favicon: null
+layout_spectrum: 0.39713266026228666
+typography_spectrum: 0.23677378427237272
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08372086193412542
+  lightness: 0.35134215420112014
+  saturation: 0.5681690350174904
+  rhythmicContrast: 0.03968098224140704
+purpose: []
