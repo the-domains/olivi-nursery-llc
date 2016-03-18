@@ -1,7 +1,7 @@
 name: OLIVI NURSERY LLC
 favicon: null
 layout_spectrum: 0.39713266026228666
-typography_spectrum: 0.23677378427237272
+typography_spectrum: 0.82411
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.08372086193412542
+  brandStrength: 0.0625
   lightness: 0.35134215420112014
   saturation: 0.5681690350174904
   rhythmicContrast: 0.03968098224140704
